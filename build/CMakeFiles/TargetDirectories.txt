@@ -1,0 +1,3 @@
+/home/lu/Code/Course/Cmake_Git/build/CMakeFiles/hello.dir
+/home/lu/Code/Course/Cmake_Git/build/CMakeFiles/edit_cache.dir
+/home/lu/Code/Course/Cmake_Git/build/CMakeFiles/rebuild_cache.dir
